@@ -3,7 +3,7 @@ class Swiftgen < Formula
   homepage "https://github.com/SwiftGen/SwiftGen"
   url "https://github.com/SwiftGen/SwiftGen.git",
       :tag => "5.3.0",
-      :revision => "fa34f944de47bf986c957fae21ee263961894658"
+      :revision => "73ac0e487dda941eb4e52ed3b96b652515f1bee5"
   head "https://github.com/SwiftGen/SwiftGen.git"
 
   bottle do
