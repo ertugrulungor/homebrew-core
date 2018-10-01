@@ -2,7 +2,7 @@ class Swiftgen < Formula
   desc "Swift code generator for assets, storyboards, Localizable.strings, …"
   homepage "https://github.com/SwiftGen/SwiftGen"
   url "https://github.com/SwiftGen/SwiftGen.git",
-      :tag => "6.0.0",
+      :tag => "5.3.0",
       :revision => "fa34f944de47bf986c957fae21ee263961894658"
   head "https://github.com/SwiftGen/SwiftGen.git"
 
